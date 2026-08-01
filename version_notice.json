@@ -1,7 +1,7 @@
 {
   "id": "patreon_v002_release",
   "active": true,
-  "show_for": ["All"],
+  "show_for": ["0.000"],
   "exclude": ["0.002"],
   "title": "New version available!",
   "text": "Version 0.002 is already available on Patreon.",
