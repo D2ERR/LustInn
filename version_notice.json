@@ -1,0 +1,13 @@
+{
+  "id": "patreon_v002_release",
+  "active": true,
+  "show_for": ["All"],
+  "exclude": ["0.002"],
+  "title_ru": "Доступна новая версия!",
+  "title_en": "New version available!",
+  "text_ru": "Версия 0.002 уже доступна на Patreon.",
+  "text_en": "Version 0.002 is already available on Patreon.",
+  "button_ru": "Открыть Patreon",
+  "button_en": "Open Patreon",
+  "url": "https://patreon.com/your_page"
+}
