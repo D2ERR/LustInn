@@ -1,7 +1,7 @@
 {
   "active": true,
   "show_for": ["All"],
-  "exclude": ["0.002"],
+  "exclude": ["0.000"],
   "title": "New version available!",
   "text": "Version 0.002 is already available on Patreon.",
   "button": "Patreon",
